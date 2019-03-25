@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  criminal: one
+  investigation: one
+  added_on: 2018-11-27
+  dropped_on: 2018-11-27
+
+two:
+  criminal: two
+  investigation: two
+  added_on: 2018-11-27
+  dropped_on: 2018-11-27

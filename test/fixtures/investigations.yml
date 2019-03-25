@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  crime_location: MyString
+  date_opened: 2018-11-27
+  date_closed: 2018-11-27
+  solved: false
+  batman_involved: false
+
+two:
+  title: MyString
+  description: MyText
+  crime_location: MyString
+  date_opened: 2018-11-27
+  date_closed: 2018-11-27
+  solved: false
+  batman_involved: false
