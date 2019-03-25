@@ -1,24 +1,14 @@
-# README
+GCPD Tracker System API
+===
+This is my final version of the Gotham City Police Department Tracker System API. It has 3 differnet endpoints.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Populating the dev database
+---
+You can populate the development database with a decent number of fictitious records with the command `rake db:populate`.  There are over 50 investigations generated, but only one is initially closed.
 
-Things you may want to cover:
+There is also a large set of criminals generated this time around, including many from Batman's famous 'Rogues Gallery'. Great reading and worth formatting appropriately.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Notes on tests
+---
+There is 100% test coverage for existing models and helpers.  
